@@ -15,4 +15,5 @@ brew cask install encryptme
 brew cask install slack
 brew cask install little-snitch
 brew cask install micro-snitch
+brew cask install bartender
 
