@@ -13,4 +13,7 @@ Since any file starting with a period is hidden you can then issue
 A simple self-explantory one is nano so try  
 `nano .bash_profile`  
 
+## Making this useful
+This project is only useful if you customize the contents of `brew-tool-install.sh` to install all the apps and tools you need on your Mac. Not everything can be installed from scripts. In particular I'm only using brew. However `brew install` handles almost all the development tools I need and `brew cask install` handles a large percentage of the GUI tools. I do still need to do a full install of X-Code from the App store. I suggest just commenting in the files the additional tools you need to install by hand. This won't help you that much the first time you use it but hopefully if you every need to "nuke and pave" your hard drive it will help. Having Time Machine backups will also be more complete but my fear is that restoring from Time Machine can bring back problems as well and installing from a clean script should not. 
+
 
