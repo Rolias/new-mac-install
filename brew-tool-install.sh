@@ -5,7 +5,6 @@
 # brew doctor <- checks the health of brew
 
 # developer tools
-xcode--select --install #Get Xcode command line tools
 brew install git
 brew install node
 brew install nvm
