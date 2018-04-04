@@ -15,8 +15,12 @@ brew install heroku
 brew install python3
 pip3 intall pandas
 python3 -m pip install jupyter
-# if working with google sheets
+# if working with google sheets in Python
 pip3 install pygsheets
+
+brew install go
+brew install elixir
+brew install tree   #unix tree command that isn't there by default in OSX
 
 brew cask install visual-studio-code
 brew cask install google-chrome
@@ -34,4 +38,5 @@ brew cask install micro-snitch
 brew cask install bartender
 brew cask install grammarly
 brew cask install tunnelblick
+brew cask install macdown
 
