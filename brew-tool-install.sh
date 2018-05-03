@@ -56,6 +56,8 @@ brew cask install balsamiq-mockups
 brew cask install adobe-acrobat-reader
 brew cask install anki   #spaced repetition learning software
 brew cask install atext
+brew cask install sizeup #change mac monitor size
+brew cask install cleanmymac
 
 
 
