@@ -9,7 +9,7 @@
 #    Slack from slack website because the brew install has limiations
 #    Bear (note taking app)
 
-# Some of the Mac App Store only items could be installed via a brew too called MAS
+# Some of the Mac App Store only items could be installed via a brew tool called MAS
 # https://github.com/mas-cli/mas
 # brew install mas
 # then need to lookup the ids of each app and add lines
@@ -58,6 +58,7 @@ brew cask install anki   #spaced repetition learning software
 brew cask install atext
 brew cask install sizeup #change mac monitor size
 brew cask install cleanmymac
+brew cask install screenflick   #screen recording software for the mac
 
 
 
