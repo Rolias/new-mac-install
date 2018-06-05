@@ -1,0 +1,23 @@
+# Fdb version 3
+["pdflatex"] 1527550782 "/Users/tod-gentille/dev/new-mac-install/readme.tex" "readme.pdf" "readme" 1527550877
+  "/Users/tod-gentille/dev/new-mac-install/readme.tex" 1527550781 266 bb26d726ac3a831289f0f15ac6ef1972 ""
+  "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1480098733 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1480098815 1458 43ab4710dc82f3edeabecd0d099626b2 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty" 1490564930 1251 d170e11a3246c3392bc7f59595af42cb ""
+  "/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty" 1480098815 6797 90b7f83b0ad46826bc16058b1e3d48df ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls" 1523050425 19823 fcbc01552b07b608574cbf8e1977e0c0 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty" 1523050425 5052 f2525dfd6e503dc383e90b568c6c9f02 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo" 1523050425 8294 b0f177401f895563eb19304d2389582d ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty" 1522012985 41366 3ed245b911039f45436c2cb62a4d1e62 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty" 1523134385 2591 6404d0c7d28505fb38ce0d86c2e28ae7 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/parskip/parskip.sty" 1480098836 2763 02a40cc5a32805c41d919cfbdba7e99a ""
+  "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
+  "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
+  "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
+  "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
+  "readme.aux" 1527550782 8 a94a2480d3289e625eea47cd1b285758 ""
+  "readme.tex" 1527550781 266 bb26d726ac3a831289f0f15ac6ef1972 ""
+  (generated)
+  "readme.aux"
+  "readme.pdf"
+  "readme.log"

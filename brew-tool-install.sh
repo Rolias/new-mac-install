@@ -60,6 +60,7 @@ brew cask install atext
 brew cask install sizeup                      # change mac monitor size - free alternatives available
 brew cask install cleanmymac                  # $
 brew cask install screenflick                 # screen recording software for the mac
-
+brew cask install mactex                      # LaTeX software
+brew cask install haskell-platform
 
 
