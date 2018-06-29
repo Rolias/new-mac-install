@@ -22,6 +22,21 @@ brew install node
 brew install nvm
 mkdir ~/.nvm
 
+## MANUAL STEPS TO TAKE
+# Recreate your git global ignore
+# git config --global core.excludesfile ~/.gitignore_global
+# Then touch in ~ .gitignore_global and settings
+# on Mac I add
+# .*
+# _local/
+# .DS_Store
+# .DS_Store?
+# *.log
+
+# git config --get core.excludesfile
+# will show where the excludesfile is located
+
+
 brew install heroku                           # need heroku CLI for huh-bot
 
 # python
