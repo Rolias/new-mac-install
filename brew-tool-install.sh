@@ -20,6 +20,8 @@
 brew install git
 brew install node
 brew install nvm
+brew install yarn
+brew cask install dbeaver-community
 mkdir ~/.nvm
 
 ## MANUAL STEPS TO TAKE
@@ -58,7 +60,8 @@ brew cask install reaper
 brew cask install google-backup-and-sync
 brew cask install dropbox
 brew cask install lastpass
-brew cask install blue-jeans
+# brew cask install blue-jeans
+brew cask install zoom
 brew cask install encryptme
 # brew cask install slack #install from their web site, this version currently has differences (like can't set download folder)
 brew cask install little-snitch               # $
@@ -70,7 +73,7 @@ brew cask install macdown
 brew cask install adobe-air                   # needed for balsamiq (otherwise seems like ancient technology)
 brew cask install balsamiq-mockups            # $ I refuse to give it up
 brew cask install adobe-acrobat-reader
-brew cask install anki                        # spaced repetition learning software
+# brew cask install anki                        # spaced repetition learning software
 brew cask install atext
 brew cask install sizeup                      # change mac monitor size - free alternatives available
 brew cask install cleanmymac                  # $
