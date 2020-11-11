@@ -56,25 +56,25 @@ brew cask install visual-studio-code
 brew cask install google-chrome
 brew tap cask room/fonts
 brew cask install font-fira-code
-brew cask install reaper
+brew cask install reaper                       # digital audio workstation (useful for course authoring
 brew cask install google-backup-and-sync
 brew cask install dropbox
 brew cask install lastpass
 # brew cask install blue-jeans
 brew cask install zoom
-brew cask install encryptme
+# brew cask install encryptme
 # brew cask install slack #install from their web site, this version currently has differences (like can't set download folder)
-brew cask install little-snitch               # $
-brew cask install micro-snitch                # $
-brew cask install bartender                   # $
-brew cask install grammarly                   # $ but free for subset of features
+# brew cask install little-snitch             # $
+# brew cask install micro-snitch              # $
+brew cask install bartender                   # $ menu bar manager
+# brew cask install grammarly                   # $ but free for subset of features - no longer authorized for use at PS
 brew cask install tunnelblick                 # vpn
-brew cask install macdown
-brew cask install adobe-air                   # needed for balsamiq (otherwise seems like ancient technology)
-brew cask install balsamiq-mockups            # $ I refuse to give it up
+brew cask install macdown                     # markdown viewer
+# brew cask install adobe-air                 # needed for balsamiq (otherwise seems like ancient technology)
+# brew cask install balsamiq-mockups          # $ I refuse to give it up
 brew cask install adobe-acrobat-reader
 # brew cask install anki                        # spaced repetition learning software
-brew cask install atext
+brew cask install atext                       # I LOVE this tool!!! Power text substitution - ask me for tips
 brew cask install sizeup                      # change mac monitor size - free alternatives available
 brew cask install cleanmymac                  # $
 brew cask install screenflick                 # screen recording software for the mac
